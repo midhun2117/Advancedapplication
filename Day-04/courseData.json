@@ -1,0 +1,53 @@
+[
+    {
+      "courseName": "Chess Basics",
+      "timing": "Monday, Wednesday, Friday 6:00 PM - 7:00 PM",
+      "duration": "12 weeks"
+    },
+    {
+      "courseName": "Advanced Strategies",
+      "timing": "Tuesday, Thursday 5:00 PM - 7:00 PM",
+      "duration": "8 weeks"
+    },
+    {
+      "courseName": "Opening Theory",
+      "timing": "Saturday 10:00 AM - 12:00 PM",
+      "duration": "10 weeks"
+    },
+    {
+      "courseName": "Endgame Mastery",
+      "timing": "Sunday 2:00 PM - 4:00 PM",
+      "duration": "6 weeks"
+    },
+    {
+      "courseName": "Tactics Training",
+      "timing": "Monday, Wednesday 4:00 PM - 6:00 PM",
+      "duration": "8 weeks"
+    },
+    {
+      "courseName": "Blitz Techniques",
+      "timing": "Friday 7:00 PM - 9:00 PM",
+      "duration": "6 weeks"
+    },
+    {
+      "courseName": "Pawn Structure",
+      "timing": "Tuesday 6:00 PM - 8:00 PM",
+      "duration": "8 weeks"
+    },
+    {
+      "courseName": "Master Class",
+      "timing": "Thursday 7:00 PM - 9:00 PM",
+      "duration": "12 weeks"
+    },
+    {
+      "courseName": "Analytical Skills",
+      "timing": "Wednesday 5:00 PM - 7:00 PM",
+      "duration": "10 weeks"
+    },
+    {
+      "courseName": "Endgame Tactics",
+      "timing": "Saturday, Sunday 3:00 PM - 5:00 PM",
+      "duration": "8 weeks"
+    }
+  ]
+  
